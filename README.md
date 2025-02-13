@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+#I'm a computer science engineer
 <!--
 **SarahMeriem/SarahMeriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
